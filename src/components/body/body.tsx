@@ -7,7 +7,7 @@ import img4 from './paige9.jpeg';
 const Body = () => {
     return (
         <body className = 'body'>
-                <p className="welcomeMessage"> welcome message will go here </p>
+                <p className="welcomeMessage"> Welcome message will go here </p>
 
                 <img src = {img1} className="mainImage" alt = 'welcome picture'/>
 

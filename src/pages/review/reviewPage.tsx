@@ -1,12 +1,16 @@
 import react from 'react';
-import './reviewPageStyle.css';
+import ReviewHeader from './reviewHeader';
+import ReviewBody from './reviewBody';
+
+import './reviewHeaderStyle.css';
+import './reviewBodyStyle.css';
 
 const ReviewPage = () => {
     return(
         <>
-            <body className = 'body'>
-                
-            </body>        
+            <ReviewHeader />
+            <ReviewBody/>
+
         </>
     );
 

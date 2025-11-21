@@ -1,9 +1,7 @@
-.body{
-    position: relative;
-    background-color: #6F4E37;
-    color: black;
-    height:fit-content;
-    margin: 0;
-    padding: 0;
-    
+
+.reviewLinks{
+      display: flex;
+      justify-content: center; 
+      align-items: center; 
+      margin-left: 1em;
 }

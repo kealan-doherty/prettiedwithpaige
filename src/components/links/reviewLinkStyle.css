@@ -4,8 +4,9 @@
     width: 50px;
     justify-content: center;
     align-items: center;
-    background-color:bisque;
+    background-color:#EADDCA;
     color: brown;
+     border: 2px solid brown;
     border-radius: 10px;
     font-size: large;
     font-family: "Brush Script MT", "Lucida Handwriting", cursive;

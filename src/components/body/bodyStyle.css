@@ -1,7 +1,7 @@
 .body{
     position: relative;
-    background-color: bisque;
-    color: black;
+    background-color: #EADDCA;
+    color: brown;
     height:fit-content;
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@
     width: 25%;
     height: 25%;
     font-size: 300%;
-    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
@@ -27,7 +27,7 @@
     width: 20%;
     height: 20%;
     border-radius:10px;
-    box-shadow: 0 0 15px white, 0 0 15px white;
+    box-shadow: 0 0 15px brown, 0 0 15px brown;
 
 }
 
@@ -40,7 +40,7 @@
     left: 57%;
     bottom: 11em;
     border-radius:10px;
-    box-shadow: 0 0 10px white, 0 0 15px white;
+    box-shadow: 0 0 10px Brown, 0 0 15px brown;
 }
 
 .img3{
@@ -49,7 +49,7 @@
     width: 10%;
     left: 58%;
     border-radius: 10px;
-    box-shadow: 0 0 10px whitesmoke, 0 0 15px white;
+    box-shadow: 0 0 10px brown, 0 0 15px brown;
 }
 
 .img4{
@@ -58,5 +58,5 @@
     width: 10%;
     left: 37%;
     border-radius: 10px;
-    box-shadow: 0 0 10px whitesmoke, 0 0 15px white;
+    box-shadow: 0 0 10px brown, 0 0 15px brown;
 }
