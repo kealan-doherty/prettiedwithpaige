@@ -1,0 +1,62 @@
+.body{
+    position: relative;
+    background-color: bisque;
+    color: black;
+    height:fit-content;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.welcomeMessage{
+    position: relative;
+    top: 200px;
+    left: 10%;
+    width: 25%;
+    height: 25%;
+    font-size: 300%;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+
+}
+
+.mainImage{
+    position: relative;
+    bottom: 40%;
+    left: 56%;
+    width: 20%;
+    height: 20%;
+    border-radius:10px;
+    box-shadow: 0 0 15px white, 0 0 15px white;
+
+}
+
+
+
+.secImage{
+    position: relative;
+    height: 20%;
+    width: 10%;
+    left: 57%;
+    bottom: 11em;
+    border-radius:10px;
+    box-shadow: 0 0 10px white, 0 0 15px white;
+}
+
+.img3{
+    position: relative;
+    height: 20%;
+    width: 10%;
+    left: 58%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px whitesmoke, 0 0 15px white;
+}
+
+.img4{
+    position: relative;
+    height: 10%;
+    width: 10%;
+    left: 37%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px whitesmoke, 0 0 15px white;
+}

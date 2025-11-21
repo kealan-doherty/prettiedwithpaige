@@ -1,0 +1,62 @@
+.footer{
+    background-color: bisque;
+    width: 100%;
+    position: relative;
+}
+
+
+
+.personalState{
+    font-size: 300%;
+    color: white;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    text-align: center;
+}
+
+
+.infoImg1{
+    position:relative;
+    width: 15%;
+    left: 16%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px whitesmoke, 0 0 15px white;
+}
+
+.infoImg2{
+    position:relative;
+    width:15%;
+    left:19%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px whitesmoke, 0 0 15px white;
+}
+
+.infoImg3{
+    position:relative;
+    width:15%;
+    left: 22%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px whitesmoke, 0 0 15px white;
+}
+
+.infoImg4{
+    position: relative;
+    width: 15%;
+    left:25%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px whitesmoke, 0 0 15px white;
+}
+
+.bookingHeader{
+    font-size: 350%;
+    color: white;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    text-align: center;
+}
+
+
+.personalStateHeading{
+    font-size: 350%;
+    color:white;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    text-align: center;
+}
