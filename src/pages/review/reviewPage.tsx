@@ -1,4 +1,4 @@
-import react from 'react';
+
 import ReviewHeader from './reviewHeader';
 import ReviewBody from './reviewBody';
 

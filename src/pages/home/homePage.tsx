@@ -1,8 +1,8 @@
-import React from 'react';
+
 import Header from '../../components/Header/Header';
 import Body from'../../components/body/body';
 import Footer from '../../components/footer/footer';
-import ReviewPage from '../../pages/review/reviewPage';
+
 import '../../components/body/bodyStyle.css';
 import '../../components/Header/HeaderStyle.css';
 import '../../components/footer/footerstyle.css';

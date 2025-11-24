@@ -1,4 +1,4 @@
-import react from 'react';
+
 
 
 import Insta from '../../components/links/insta';

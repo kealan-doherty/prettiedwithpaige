@@ -1,4 +1,4 @@
-import React from "react";
+
 import Gmail from './gmail.svg';
 
 

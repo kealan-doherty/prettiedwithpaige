@@ -1,4 +1,4 @@
-import react from 'react';
+
 import img1 from './paige3.jpeg';
 import img2 from './paige4.jpeg';
 import img3 from './paige5.jpeg';
